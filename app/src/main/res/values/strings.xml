@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">bechikov_v_10</string>
+    <string name="vis1">Авторизироваться</string>
+    <string name="user">Привет, User!</string>
+    <string name="of">Личный кабинет</string>
+    <string name="_123_321">Личный кабинет</string>
+    <string name="oc">Настройки</string>
+</resources>
